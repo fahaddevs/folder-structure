@@ -1,6 +1,6 @@
 # HTML folder-structure
 
-* folder name 
+* :file_folder: folder name 
   * .git
   * node_modules
   * src
