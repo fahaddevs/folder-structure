@@ -15,7 +15,14 @@
       * :file_folder: sass
       * webfonts
     * :file_folder: html
-    * partial-html
+      * index.html
+      * about.html
+      * contact.html
+    * :file_folder: partial-html
+      * _footer.html
+      * _header.html
+      * _template-bottom.html
+      * _template-top.html
     * index.html
     * about.html
     * contact.html
